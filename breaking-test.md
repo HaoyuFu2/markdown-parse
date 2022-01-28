@@ -1,1 +1,1 @@
-[a-link] (www.gooog()le.com)
+[a-link] (www.goog()le.com)
