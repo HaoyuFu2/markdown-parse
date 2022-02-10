@@ -20,6 +20,7 @@ public class MarkdownParseTest {
         assertEquals("https://something.com", links.get(0));
         assertEquals("some-page.html", links.get(1));
     }
+    
     @Test
     public void getLinks2() throws IOException {
         Path fileName = Path.of("breaking-test.md");
